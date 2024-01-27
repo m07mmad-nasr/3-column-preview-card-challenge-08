@@ -23,7 +23,7 @@
 ### Links
 
 - Solution URL: [Solution](https://github.com/m07mmad-nasr/3-column-preview-card-challenge-08)
-- Live Site URL: [Live Site](./)
+- Live Site URL: [Live Site](https://3-column-preview-card-challenge-08.vercel.app)
 
 ## My process
 
