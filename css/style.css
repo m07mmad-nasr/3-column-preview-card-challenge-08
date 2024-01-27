@@ -52,17 +52,19 @@ article p {
   font-weight: 400;
 }
 
-article button {
+article a {
   font-family: "Lexend Deca", sans-serif;
   font-size: 1rem;
   width: 150px;
-  height: 50px;
+  padding: 15px 10px;
   align-self: self-end;
   margin-left: 50px;
+  text-align: center;
   border: none;
   border-radius: 50px;
   background-color: var(--Very-light-gray-bg-h-b);
   transition: 0.3s;
+  text-decoration: none;
 }
 
 article.one {
@@ -79,19 +81,19 @@ article.three {
   border-radius: 0 10px 10px 0;
 }
 
-article.one button {
+article.one a {
   color: var(--Bright-orange);
 }
 
-article.two button {
+article.two a {
   color: var(--Dark-cyan);
 }
 
-article.three button {
+article.three a {
   color: var(--Very-dark-cyan);
 }
 
-article button:hover {
+article a:hover {
   cursor: pointer;
   background-color: transparent;
   border: 3px solid var(--Very-light-gray-bg-h-b);
